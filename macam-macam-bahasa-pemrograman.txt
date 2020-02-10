@@ -1,5 +1,6 @@
 - JavaScript
   * Framework JavaScript
+    ~ Vue
   * ES6
 - Python
 - SQL
