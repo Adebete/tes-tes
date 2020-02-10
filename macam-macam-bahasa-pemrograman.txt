@@ -1,4 +1,5 @@
-- Java Script
+- JavaScript
+  * Framework JavaScript
 - Python
 - SQL
 - PHP
