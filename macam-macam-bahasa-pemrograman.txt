@@ -1,6 +1,9 @@
 - JavaScript
   * Framework JavaScript
+    ~ Vue
+  * ES6
 - Python
 - SQL
 - PHP
 - Java
+- Struktur data dasar
